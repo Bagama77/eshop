@@ -1,0 +1,9 @@
+com\eshop\model\Good.class
+com\eshop\model\User.class
+com\eshop\config\WebInit.class
+com\eshop\model\Entity.class
+com\eshop\config\RootConfig.class
+com\eshop\config\WebConfig.class
+com\eshop\model\UserRole.class
+com\eshop\model\NamedEntity.class
+com\eshop\controller\HomeController.class
